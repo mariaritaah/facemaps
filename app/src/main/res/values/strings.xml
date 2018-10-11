@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FaceMaps</string>
+
+    <string name="sobre">Sobre</string>
+    <string name="configuracoes">Configurações</string>
+
+    <string name="navigation_drawer_open">Navigation Drawer Open</string>
+    <string name="navigation_drawer_close">Navigation Drawer Close</string>
+
+    <string name="my_name">Lucas Ramos de S. e Silva</string>
+    <string name="my_email">lucasramosdev@gmail.com</string>
+
+    <string name="posts_nao_resolvidos">Não Resolvidos</string>
+    <string name="posts_resolvidos">Resolvidos</string>
+    <string name="seus_posts">Suas Publicações</string>
+
+    <string name="descricao">Descrição</string>
+    <string name="video">Vídeo</string>
+    <string name="localizacao">Localização</string>
+
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+
+    <string name="titulo">Titulo</string>
+    <string name="new_post">Novo Post</string>
+
+    <string name="salvar">Salvar</string>
+
+    <string name="msg_error_form_titulo">Informe o Titulo</string>
+    <string name="msg_error_form_descricao">Informe a Descrição</string>
+    <string name="msg_confirmar_exclusao_post">Tem certeza que deseja excluir este Post?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="API_KEY">AIzaSyAg4RMifxrtRvKnxblL0oQT97O9H12UxRY</string>
+
+</resources>
